@@ -1,4 +1,16 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Lorenz Leitner Hub"
+baseurl = "http://lolei.github.io/"
 theme = "nix"
+
+[params]
+  Name = "Lorenz Leitner"
+  HeaderUsername = "lo"
+  HeaderHostname = "lei"
+  About = "Hi, I'm Lorenz, a 23 year old Software Engineering & Management student @ TU Graz. All my online presences are linked above, feel free to contact me on any of those."
+  ProfilePicture = "/img/me.png"
+  GithubID = "LoLei"
+  TwitterID = "LorenzLeitner"
+  LinkedInID = "lorenzleitner"
+  FacebookID = "LorenzLeitner"
+  Email = "lorenz.leitner@student.tugraz.at"
