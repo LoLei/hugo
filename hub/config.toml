@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Lorenz Leitner Hub"
-baseurl = "http://lolei.github.io/"
+baseurl = "https://lolei.github.io/"
 theme = "nix"
 
 [params]
