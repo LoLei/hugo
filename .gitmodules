@@ -5,3 +5,6 @@
 	path = hub/public
 	url = https://github.com/LoLei/lolei.github.io.git
 	branch = master
+[submodule "hub/themes/hermit"]
+	path = hub/themes/hermit
+	url = https://github.com/Track3/hermit.git
