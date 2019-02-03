@@ -3,5 +3,5 @@
 	url = https://github.com/LordMathis/hugo-theme-nix.git
 [submodule "hub/public"]
 	path = hub/public
-	url = git@github.com:LoLei/lolei.github.io.git
+	url = https://github.com/LoLei/lolei.github.io.git
 	branch = master
