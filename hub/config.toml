@@ -64,6 +64,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://github.com/LoLei"
 
   [[params.social]]
+    name = "gitlab"
+    url = "https://gitlab.com/LoLei"
+
+  [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/lorenzleitner"
 
@@ -77,10 +81,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [menu]
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+  #[[menu.main]]
+    #name = "Posts"
+    #url = "posts/"
+    #weight = 10
 
   [[menu.main]]
     name = "About"
