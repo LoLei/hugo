@@ -3,4 +3,13 @@ title = "About Lorenz"
 date = "2019-02-03"
 +++
 
-Hi, I'm Lorenz, a Software Engineering & Management student @ TU Graz. All my online presences are linked here, feel free to contact me on any of those. See some of the projects on which I've worked in my [portfolio](https://lolei.github.io/portfolio/).
+Hi, I'm Lorenz. Here are some facts about me that might be of interest to you:
+
+* **Profession:** Software Engineer
+* **Degrees:**
+  * MSc (Dipl.Ing. for my fellow Austrians)
+  * BSc  
+  In Software Engineering & Management and Software Development & Business Management, respectively, from Graz University of Technology
+* **Interests:** Python, C++, many other programming languages, Linux, vim, free and open-source software
+* **Portfolio:** [lolei.github.io/portfolio](https://lolei.github.io/portfolio)
+* **How to reach me:** See the [front page](https://lolei.github.io) for either my email address or my socials
