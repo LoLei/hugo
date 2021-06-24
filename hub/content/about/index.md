@@ -13,3 +13,6 @@ Hi, I'm Lorenz. Here are some facts about me that might be of interest to you:
 * **Interests:** Python, C++, many other programming languages, Linux, vim, free and open-source software
 * **Portfolio:** [lolei.github.io/portfolio](https://lolei.github.io/portfolio)
 * **How to reach me:** See the [front page](https://lolei.github.io) for either my email address or my socials
+
+## Update
+A new website may be available at [lolei.dev](https://lolei.dev).
